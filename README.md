@@ -17,3 +17,5 @@ HTML5, CSS3, JavaScript
 * [Google Fonts](https://fonts.google.com/)
 * [Font Awesome](https://fontawesome.com/)
 * CSS Animations
+
+## [Let's Go Play](https://jiewonc.github.io/memoryGame/)
