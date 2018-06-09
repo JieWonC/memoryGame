@@ -1,29 +1,19 @@
-# Memory Game Project
+# FEND Memory Game
 
-## Table of Contents
+This memory game is a FEND themed memory game. There are 8 pairs of icons which are using at FEND course: HTML5, CSS3, JS(JavaScript), Git, GitHub, Slack, Font Awesome.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## How to Play
 
-## Instructions
+Click on a card and guess the other matching card in the deck. Click, flip, memory, click, flip, matched, click, flip, memory, click, flip, unmatched, oops, click... Done!
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Check your moves, time(secs), and don't forget rating.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Built with
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## How to display
-
-Click on a card and guess the other matching card in the deck.
+HTML5, CSS3, JavaScript
 
 ## Dependencies
 
-*[Google Fonts](https://fonts.google.com/)
-*[Font Awesome](https://fontawesome.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
+* CSS Animations
